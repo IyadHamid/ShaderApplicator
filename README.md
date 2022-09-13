@@ -1,4 +1,4 @@
-A glsl shader applicator for images.
+A simple glsl shader applicator for images.
 
 The app looks for assets (shaders and images) recursively in `./assets`, `../assets`, or if neither directory exists, the current working directory.
 
